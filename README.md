@@ -23,7 +23,7 @@
 
 - [Crypto Simulator](#)
 - [Stop The Resellers](https://stopthersellers.com)
-- [Ticketcord.com](https://ticketcord.com)
+- [TicketCord](https://ticketcord.com)
 
 
 
