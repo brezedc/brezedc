@@ -1,4 +1,4 @@
-### Hi there, I'm Hugo - aka [Breze][https://twitch.tv/breze] 👋
+### Hi there, I'm Hugo - aka [Breze][twitch] 👋
 
 
 - 🔭 JavaScript Developer
