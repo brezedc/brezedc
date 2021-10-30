@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="breze.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Breze | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Breze | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Breze | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Breze | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="breze.site" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />][website]
+[<img align="left" alt="Breze | Twitch" width="22px" src="https://static.wikia.nocookie.net/logopedia/images/8/83/Twitch_icon.svg/revision/latest/scale-to-width-down/250?cb=20200130150510" />][twitch]
+[<img align="left" alt="Breze | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" />][youtube]
+[<img align="left" alt="Breze | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
+[<img align="left" alt="Breze | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/seven-kingdoms-9.png" />][discord]
 
 <br />
 <br />
