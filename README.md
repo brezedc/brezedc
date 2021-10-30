@@ -15,7 +15,6 @@
 [<img align="left" alt="Breze | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/seven-kingdoms-9.png" />][discord]
 
 <br />
-<br />
 
 ---
 
