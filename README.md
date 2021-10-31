@@ -4,7 +4,6 @@
 - 🔭 JavaScript Developer
 - 🌱 3D Enviromental Artist
 - 👯 Content Creator
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
