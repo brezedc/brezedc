@@ -24,8 +24,9 @@
 - [TicketCord](https://ticketcord.com)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brezedc&theme=dark&show_icons=true)
 ![Breze's GitHub stats](https://github-readme-stats.vercel.app/api?username=brezedc&theme=dark&show_icons=true)
+
 
 
 [website]: https://breze.site
