@@ -21,7 +21,7 @@
 
 - [Crypto Simulator](#)
 - [Blackjack Game](https://github.com/brezedc/blackjack-game)
-- [Stop The Resellers](https://stopthersellers.com)
+- [Stop The Resellers](https://stoptheresellers.com)
 - [TicketCord](https://ticketcord.com)
 
 
