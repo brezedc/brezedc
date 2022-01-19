@@ -20,6 +20,7 @@
 ### 📺 Latest Projects
 
 - [Crypto Simulator](#)
+- [Blackjack Game](https://github.com/brezedc/blackjack-game)
 - [Stop The Resellers](https://stopthersellers.com)
 - [TicketCord](https://ticketcord.com)
 
