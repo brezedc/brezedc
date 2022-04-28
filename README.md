@@ -1,38 +1,58 @@
-### Hi there, I'm Hugo - aka [Breze][twitch] 👋
+### Hey there, I'm Hugo, also known as [Breze][twitch]!
 
+I'm a student currently studying computer science.
+<br/>
+I spend my Free time coding or doing 3D modeling using autodesk.
+<br/>
+## Experiences
 
-- 🔭 JavaScript Developer
-- 🌱 3D Enviromental Artist
-- 👯 Content Creator
+#### Software
 
-### Connect with me:
+![](https://img.shields.io/badge/autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[<img align="left" alt="breze.site" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" />][website]
-[<img align="left" alt="Breze | Twitch" width="22px" src="https://static.wikia.nocookie.net/logopedia/images/8/83/Twitch_icon.svg/revision/latest/scale-to-width-down/250?cb=20200130150510" />][twitch]
-[<img align="left" alt="Breze | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" />][youtube]
-[<img align="left" alt="Breze | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
-[<img align="left" alt="Breze | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/seven-kingdoms-9.png" />][discord]
+#### Programming Languages / Libraries
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/web3js-F16822?style=for-the-badge&logo=web3js&logoColor=white)
+![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
+![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PhP&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 
-<br />
+#### Other
+![](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
-### 📺 Latest Projects
+### Projects
 
-- [Crypto Simulator](#)
-- [Blackjack Game](https://github.com/brezedc/blackjack-game)
-- [YTYP Creator Tool](https://github.com/brezedc/YTYP-Creator)
 - [Stop The Resellers](https://stoptheresellers.com)
 - [TicketCord](https://ticketcord.com)
+- [Wordle Bot](https://github.com/brezedc/wordle-bot)
+- [YTYP Creator Tool](https://github.com/brezedc/YTYP-Creator)
+
+<br />
+
+![Breze's GitHub stats](https://github-readme-stats.vercel.app/api?username=brezedc&theme=dark&show_icons=true&layout=compact&hide_border=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brezedc&theme=dark&show_icons=true)
-![Breze's GitHub stats](https://github-readme-stats.vercel.app/api?username=brezedc&theme=dark&show_icons=true)
+
+### Socials
+
+![discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)
+![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)
+![twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white)
+![patreon](https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)
 
 
-
-[website]: https://breze.site
+[patreon]: https://patreon.com/breze
 [twitch]: https://twitch.tv/breze
-[twitter]: https://twitter.com/breze_v
-[youtube]: https://www.youtube.com/c/Brezedc/videos
+[youtube]: https://www.youtube.com/c/Brezedc
 [discord]: https://discord.gg/breze
