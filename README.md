@@ -46,10 +46,10 @@ I spend my Free time coding or doing 3D modeling using autodesk.
 
 ### Socials
 
-![discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)
-![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)
-![twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white)
-![patreon](https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)
+[<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>][discord]
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
+[<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>][twitch]
+[<img src="https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/>][patreon]
 
 
 [patreon]: https://patreon.com/breze
