@@ -1,4 +1,4 @@
-### Hey there, I'm Hugo, also known as [Breze][twitch]!
+### Hey there, I'm Hugo, also known as [Breze][website]!
 
 I'm a student currently studying computer science.
 <br/>
@@ -51,7 +51,7 @@ I spend my free time coding or doing 3D modeling using autodesk.
 [<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>][twitch]
 [<img src="https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/>][patreon]
 
-
+[website]: https://breze.dev
 [patreon]: https://patreon.com/breze
 [twitch]: https://twitch.tv/breze
 [youtube]: https://www.youtube.com/c/Brezedc
