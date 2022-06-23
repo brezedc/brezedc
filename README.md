@@ -34,8 +34,6 @@ I spend my free time coding or doing 3D modeling using autodesk.
 ### Projects
 
 - [Stop The Resellers](https://stoptheresellers.com)
-- [TicketCord](https://ticketcord.com)
-- [Wordle Bot](https://github.com/brezedc/wordle-bot)
 - [YTYP Creator Tool](https://github.com/brezedc/YTYP-Creator)
 
 <br />
