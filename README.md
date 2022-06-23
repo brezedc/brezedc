@@ -2,7 +2,7 @@
 
 I'm a student currently studying computer science.
 <br/>
-I spend my Free time coding or doing 3D modeling using autodesk.
+I spend my free time coding or doing 3D modeling using autodesk.
 <br/>
 ## Experiences
 
