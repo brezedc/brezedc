@@ -11,7 +11,7 @@ I spend my free time coding or doing 3D modeling using autodesk.
 ![](https://img.shields.io/badge/autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Programming Languages / Libraries
+#### Programming Languages
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
