@@ -23,7 +23,7 @@ I spend my free time coding or doing 3D modeling using autodesk.
 ![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 
-#####Frameworks / Libraries
+##### Frameworks / Libraries
 ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
