@@ -14,7 +14,6 @@ I spend my free time coding or doing 3D modeling using autodesk.
 #### Programming Languages
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
@@ -29,7 +28,6 @@ I spend my free time coding or doing 3D modeling using autodesk.
 ![](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Other
 ![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,10 +55,8 @@ I spend my free time coding or doing 3D modeling using autodesk.
 [<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>][discord]
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
 [<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white"/>][twitch]
-[<img src="https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/>][patreon]
 
 [website]: https://breze.dev
-[patreon]: https://patreon.com/breze
 [twitch]: https://twitch.tv/breze
 [youtube]: https://www.youtube.com/c/Brezedc
 [discord]: https://discord.gg/breze
