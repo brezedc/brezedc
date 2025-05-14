@@ -1,9 +1,5 @@
 ### Hey there, I'm Hugo, also known as [Breze][website]!
 
-I'm a student currently studying computer science.
-<br/>
-I spend my free time coding or doing 3D modeling using autodesk.
-<br/>
 ## Experiences
 
 #### Software
@@ -41,10 +37,8 @@ I spend my free time coding or doing 3D modeling using autodesk.
 
 ### Projects
 
-- [LB Phone](https://lbphone.com)
+- [LB](https://lbscripts.com)
 - [Personal Portfolio](https://breze.dev)
-- [Stop The Resellers](https://stoptheresellers.com)
-- [YTYP Creator Tool](https://github.com/brezedc/YTYP-Creator)
 
 <br />
 
